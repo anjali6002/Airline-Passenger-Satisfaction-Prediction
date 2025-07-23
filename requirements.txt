@@ -177,13 +177,11 @@ lxml==5.3.0
 lz4 @ file:///C:/b/abs_8ep7mb2x8a/croot/lz4_1736369996037/work
 Mako @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mako_1729048828184/work
 Markdown @ file:///C:/b/abs_f9hbi7znfr/croot/markdown_1746114643651/work
-markdown-it-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markdown-it-py_1729039967492/work
 MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
 matplotlib==3.10.0
 matplotlib-inline @ file:///C:/Users/dev-admin/buildout/croot/matplotlib-inline_1732914206474/work
 mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
 mdit-py-plugins @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mdit-py-plugins_1729048896699/work
-mdurl @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mdurl_1729039154828/work
 menuinst @ file:///C:/b/abs_fblttj5gp1/croot/menuinst_1738943438301/work
 mistune @ file:///C:/b/abs_77yql3poyz/croot/mistune_1741124004410/work
 mkl-service==2.4.0
@@ -304,7 +302,6 @@ requests-file @ file:///C:/b/abs_804owi11qo/croot/requests-file_1749719355197/wo
 requests-toolbelt @ file:///C:/Users/dev-admin/buildout/perseverance-python-buildout/croot/requests-toolbelt_1731731341115/work
 rfc3339_validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3339-validator_1729040163441/work
 rfc3986_validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3986-validator_1729040192034/work
-rich @ file:///C:/b/abs_8b92fzmygg/croot/rich_1732638991774/work
 roman-numerals-py @ file:///C:/b/abs_c6xpj9atdr/croot/roman-numerals-py_1744666293821/work
 rope @ file:///C:/b/abs_2232rxaz98/croot/rope_1743709233829/work
 rpds-py @ file:///C:/b/abs_0c6z5kcdb6/croot/rpds-py_1736545465023/work
