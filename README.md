@@ -14,7 +14,8 @@ This project focuses on predicting airline passenger satisfaction (whether they 
 The dataset used in this project contains detailed information about airline passengers, including demographics, flight history, service ratings, and their final satisfaction rating.
 * `train.csv`: Training data for model development.
 * `test.csv`: Independent test data for final model evaluation.
-* *
+* * **Source:** This dataset was originally obtained from Kaggle (https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction).
+  
   
 ## Project Structure
 * `airline passengers satisfaction.ipynb`: The main Jupyter Notebook containing all the code for data loading, EDA, preprocessing, model training, evaluation, and interpretation.
